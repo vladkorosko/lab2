@@ -6,3 +6,4 @@ You can enter the seed of generation (press "Enter" set it)
 If field number of simulation is empty it will work 1 time.
 Works all basic opportunites.
 Also you can enter seed of generation and see statictic about events.
+All number must be between 1 and 1000, size of name < 20.
